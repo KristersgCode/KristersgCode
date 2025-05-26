@@ -1,6 +1,6 @@
 # 👋 Hello, welcome to my GitHub
 
-Thanks for stopping by! I'm Kristers, a passionate software developer working with JavaScript, React Native, SwiftUI, and backend technologies like Node.js and Laravel.
+Thanks for stopping by! I'm Kristers, a passionate software developer working with JavaScript, React Native, SwiftUI, and backend technologies like Node.js, Laravel, ASP.NET.
 
 Most of my side projects are currently in **private repositories**. Some are being prepared for production release, while others are still in early development stages and not ready for public view.
 
